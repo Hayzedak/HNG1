@@ -79,4 +79,4 @@ groups nora
 
 Automating user and group management with a Bash script can enhance the efficiency and accuracy of administrative tasks. This script provides solution for creating users, managing group memberships, setting up home directories, and ensuring secure password handling. By following this guide, system administrators can save time and reduce errors, particularly in environments with frequent user account changes.
 
-You can also join [HNG](https://hng.tech/premium) next cohort to have access to real life tasks and connecting with experienced professionals.
+You can also join [HNG](https://hng.tech/premium) next cohort to have access to real-time tasks and connecting with experienced professionals.
