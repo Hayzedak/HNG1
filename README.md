@@ -1,6 +1,6 @@
 # Automating User and Group Management with a Bash Script
 
-This is an [HNG](https://hng.tech/internship) internship task for a DevOps engineer. Managing user accounts and groups is a crucial job for system administrators, especially in environments where many new users are frequently added. Automating this process can save significant time and reduce the risk of human error. 
+Managing user accounts and groups is a crucial job for system administrators, especially in environments where many new users are frequently added. Automating this process can save significant time and reduce the risk of human error. 
 
 In this article, we will demonstrate how to automate user and group management using Bash script. This script will read a text file containing usernames and group names, create the users and groups as specified, set up home directories, generate random passwords, and log all actions.
 
@@ -79,4 +79,3 @@ groups nora
 
 Automating user and group management with a Bash script can enhance the efficiency and accuracy of administrative tasks. This script provides solution for creating users, managing group memberships, setting up home directories, and ensuring secure password handling. By following this guide, system administrators can save time and reduce errors, particularly in environments with frequent user account changes.
 
-You can also join [HNG](https://hng.tech/premium) next cohort to have access to real-time tasks and connecting with experienced professionals.
